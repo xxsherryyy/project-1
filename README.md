@@ -1,2 +1,2 @@
 # project-1
-* Mapping out real estate on Google Maps for quickest route & Uber/Lift service option
+* Providing information for events in Dallas, and ticket sales to those events.
